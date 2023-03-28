@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-28T12:45:39.888Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="3UdWyd0BP9sf0Khg4Ri5" version="21.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-28T13:00:02.069Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="OsI2xcFFQXAcu7jBqerq" version="21.1.1" type="github">
   <diagram name="Page-1" id="VJur4oefotUIWVRc1eGo">
     <mxGraphModel dx="23940" dy="25490" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -82,7 +82,34 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rGXDuShkipq5UH_Z0f58-32" value="" style="shape=mxgraph.signs.tech.video_camera;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
-          <mxGeometry x="920" y="3320" width="539" height="220" as="geometry" />
+          <mxGeometry x="4350" y="3320" width="539" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="rGXDuShkipq5UH_Z0f58-33" value="Text" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4870" y="3350" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rGXDuShkipq5UH_Z0f58-34" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/essential-pack-2/48/29-Banking-Atm-128.png" vertex="1" parent="1">
+          <mxGeometry x="4960" y="3320" width="398" height="398" as="geometry" />
+        </mxCell>
+        <mxCell id="rGXDuShkipq5UH_Z0f58-36" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/essential-pack-2/48/29-Banking-Atm-128.png" vertex="1" parent="1">
+          <mxGeometry x="5535" y="3330" width="398" height="398" as="geometry" />
+        </mxCell>
+        <mxCell id="rGXDuShkipq5UH_Z0f58-37" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/essential-pack-2/48/29-Banking-Atm-128.png" vertex="1" parent="1">
+          <mxGeometry x="1530" y="3320" width="398" height="398" as="geometry" />
+        </mxCell>
+        <mxCell id="rGXDuShkipq5UH_Z0f58-38" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/essential-pack-2/48/29-Banking-Atm-128.png" vertex="1" parent="1">
+          <mxGeometry x="860" y="3320" width="398" height="398" as="geometry" />
+        </mxCell>
+        <mxCell id="rGXDuShkipq5UH_Z0f58-39" value="" style="shape=mxgraph.signs.tech.video_camera;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
+          <mxGeometry x="140" y="3330" width="539" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="rGXDuShkipq5UH_Z0f58-40" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;strokeWidth=20;" vertex="1" parent="1">
+          <mxGeometry x="20" y="-1290" width="3770" height="3660" as="geometry" />
+        </mxCell>
+        <mxCell id="rGXDuShkipq5UH_Z0f58-41" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;strokeWidth=20;" vertex="1" parent="1">
+          <mxGeometry x="3435" y="-745" width="4850" height="1840" as="geometry" />
+        </mxCell>
+        <mxCell id="rGXDuShkipq5UH_Z0f58-42" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=-180;strokeWidth=20;" vertex="1" parent="1">
+          <mxGeometry x="-520" y="-3100" width="4720" height="1400" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
