@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2023-03-28T13:00:02.069Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="OsI2xcFFQXAcu7jBqerq" version="21.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-28T14:06:21.764Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="hsdevjYD4QmQwdJRAZOw" version="21.1.1" type="github">
   <diagram name="Page-1" id="VJur4oefotUIWVRc1eGo">
-    <mxGraphModel dx="23940" dy="25490" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="19160" dy="22860" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="3UZXfQVDiNcqJCPsMIMa-4" value="" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;labelBackgroundColor=none;strokeWidth=25;" parent="1" vertex="1">
           <mxGeometry x="-1040" y="-3100" width="8400" height="6420" as="geometry" />
         </mxCell>
-        <mxCell id="rGXDuShkipq5UH_Z0f58-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="3UZXfQVDiNcqJCPsMIMa-5">
+        <mxCell id="rGXDuShkipq5UH_Z0f58-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" parent="1" source="3UZXfQVDiNcqJCPsMIMa-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="7330" y="-3111.142857142857" as="targetPoint" />
           </mxGeometry>
@@ -15,101 +15,362 @@
         <mxCell id="3UZXfQVDiNcqJCPsMIMa-5" value="" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;labelBackgroundColor=none;strokeWidth=25;" parent="1" vertex="1">
           <mxGeometry x="-1040" y="-8860" width="8400" height="5750" as="geometry" />
         </mxCell>
-        <mxCell id="rGXDuShkipq5UH_Z0f58-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3UZXfQVDiNcqJCPsMIMa-7" target="3UZXfQVDiNcqJCPsMIMa-4">
+        <mxCell id="rGXDuShkipq5UH_Z0f58-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="3UZXfQVDiNcqJCPsMIMa-7" target="3UZXfQVDiNcqJCPsMIMa-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3UZXfQVDiNcqJCPsMIMa-7" value="" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;strokeWidth=25;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-9520" y="-3100" width="8470" height="6420" as="geometry" />
+          <mxGeometry x="-9520" y="-3100" width="8470" height="3270" as="geometry" />
         </mxCell>
-        <mxCell id="rGXDuShkipq5UH_Z0f58-2" value="Офисная зона" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=999;" vertex="1" parent="1">
+        <mxCell id="rGXDuShkipq5UH_Z0f58-2" value="Офисная зона" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=999;" parent="1" vertex="1">
           <mxGeometry x="-9520" y="-5810" width="8480" height="2690" as="geometry" />
         </mxCell>
-        <mxCell id="rGXDuShkipq5UH_Z0f58-5" value="Банковское хранилище" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=999;" vertex="1" parent="1">
+        <mxCell id="rGXDuShkipq5UH_Z0f58-5" value="Банковское хранилище" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=999;" parent="1" vertex="1">
           <mxGeometry x="-1040" y="-11600" width="8400" height="2710" as="geometry" />
         </mxCell>
-        <mxCell id="rGXDuShkipq5UH_Z0f58-6" value="Клиентская зона" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=999;rotation=90;" vertex="1" parent="1">
+        <mxCell id="rGXDuShkipq5UH_Z0f58-6" value="Клиентская зона" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=999;rotation=90;" parent="1" vertex="1">
           <mxGeometry x="5535" y="-1245" width="6430" height="2710" as="geometry" />
         </mxCell>
-        <mxCell id="rGXDuShkipq5UH_Z0f58-9" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="3UZXfQVDiNcqJCPsMIMa-7" target="3UZXfQVDiNcqJCPsMIMa-7">
+        <mxCell id="rGXDuShkipq5UH_Z0f58-9" value="" style="endArrow=none;html=1;rounded=0;" parent="1" source="3UZXfQVDiNcqJCPsMIMa-7" target="3UZXfQVDiNcqJCPsMIMa-7" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-6790" y="-120" as="sourcePoint" />
             <mxPoint x="-6740" y="-170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rGXDuShkipq5UH_Z0f58-10" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=20;" edge="1" parent="1" source="3UZXfQVDiNcqJCPsMIMa-7" target="3UZXfQVDiNcqJCPsMIMa-7">
+        <mxCell id="rGXDuShkipq5UH_Z0f58-10" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=20;" parent="1" source="3UZXfQVDiNcqJCPsMIMa-7" target="3UZXfQVDiNcqJCPsMIMa-7" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-6790" y="-120" as="sourcePoint" />
             <mxPoint x="-6740" y="-170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rGXDuShkipq5UH_Z0f58-13" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=20;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="3UZXfQVDiNcqJCPsMIMa-7">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-1230" y="-1270" as="sourcePoint" />
-            <mxPoint x="-1030" y="110" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="rGXDuShkipq5UH_Z0f58-14" value="Схема безопасности отделения банка второго уровня" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=999;" vertex="1" parent="1">
+        <mxCell id="rGXDuShkipq5UH_Z0f58-14" value="Схема безопасности отделения банка второго уровня" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=999;" parent="1" vertex="1">
           <mxGeometry x="-4950" y="-17380" width="16620" height="2690" as="geometry" />
         </mxCell>
-        <mxCell id="rGXDuShkipq5UH_Z0f58-15" value="" style="endArrow=none;html=1;rounded=1;strokeWidth=20;entryX=0.618;entryY=0.998;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;" edge="1" parent="1" target="3UZXfQVDiNcqJCPsMIMa-4">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="4151" y="4610" as="sourcePoint" />
-            <mxPoint x="4200" y="3360" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="rGXDuShkipq5UH_Z0f58-18" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=20;entryX=0.618;entryY=0.998;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2330" y="4600" as="sourcePoint" />
-            <mxPoint x="2331" y="3310" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="rGXDuShkipq5UH_Z0f58-21" value="" style="endArrow=none;html=1;strokeWidth=20;exitX=0.511;exitY=1.001;exitDx=0;exitDy=0;exitPerimeter=0;curved=1;" edge="1" parent="1" source="3UZXfQVDiNcqJCPsMIMa-4">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="3080" y="4813" as="sourcePoint" />
-            <mxPoint x="2330" y="4590" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="3000" y="4140" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="rGXDuShkipq5UH_Z0f58-27" value="" style="endArrow=none;html=1;strokeWidth=20;exitX=0.514;exitY=1.001;exitDx=0;exitDy=0;exitPerimeter=0;curved=1;" edge="1" parent="1" source="3UZXfQVDiNcqJCPsMIMa-4">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="3550" y="4810" as="sourcePoint" />
-            <mxPoint x="4150" y="4600" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="3420" y="4210" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="rGXDuShkipq5UH_Z0f58-32" value="" style="shape=mxgraph.signs.tech.video_camera;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
+        <mxCell id="rGXDuShkipq5UH_Z0f58-32" value="" style="shape=mxgraph.signs.tech.video_camera;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" parent="1" vertex="1">
           <mxGeometry x="4350" y="3320" width="539" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="rGXDuShkipq5UH_Z0f58-33" value="Text" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="rGXDuShkipq5UH_Z0f58-33" value="Text" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="4870" y="3350" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="rGXDuShkipq5UH_Z0f58-34" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/essential-pack-2/48/29-Banking-Atm-128.png" vertex="1" parent="1">
+        <mxCell id="rGXDuShkipq5UH_Z0f58-34" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/essential-pack-2/48/29-Banking-Atm-128.png" parent="1" vertex="1">
           <mxGeometry x="4960" y="3320" width="398" height="398" as="geometry" />
         </mxCell>
-        <mxCell id="rGXDuShkipq5UH_Z0f58-36" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/essential-pack-2/48/29-Banking-Atm-128.png" vertex="1" parent="1">
+        <mxCell id="rGXDuShkipq5UH_Z0f58-36" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/essential-pack-2/48/29-Banking-Atm-128.png" parent="1" vertex="1">
           <mxGeometry x="5535" y="3330" width="398" height="398" as="geometry" />
         </mxCell>
-        <mxCell id="rGXDuShkipq5UH_Z0f58-37" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/essential-pack-2/48/29-Banking-Atm-128.png" vertex="1" parent="1">
+        <mxCell id="rGXDuShkipq5UH_Z0f58-37" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/essential-pack-2/48/29-Banking-Atm-128.png" parent="1" vertex="1">
           <mxGeometry x="1530" y="3320" width="398" height="398" as="geometry" />
         </mxCell>
-        <mxCell id="rGXDuShkipq5UH_Z0f58-38" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/essential-pack-2/48/29-Banking-Atm-128.png" vertex="1" parent="1">
+        <mxCell id="rGXDuShkipq5UH_Z0f58-38" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/essential-pack-2/48/29-Banking-Atm-128.png" parent="1" vertex="1">
           <mxGeometry x="860" y="3320" width="398" height="398" as="geometry" />
         </mxCell>
-        <mxCell id="rGXDuShkipq5UH_Z0f58-39" value="" style="shape=mxgraph.signs.tech.video_camera;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
+        <mxCell id="rGXDuShkipq5UH_Z0f58-39" value="" style="shape=mxgraph.signs.tech.video_camera;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" parent="1" vertex="1">
           <mxGeometry x="140" y="3330" width="539" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="rGXDuShkipq5UH_Z0f58-40" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;strokeWidth=20;" vertex="1" parent="1">
-          <mxGeometry x="20" y="-1290" width="3770" height="3660" as="geometry" />
+        <mxCell id="rGXDuShkipq5UH_Z0f58-40" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;strokeWidth=20;" parent="1" vertex="1">
+          <mxGeometry x="260" y="-1270" width="3770" height="3660" as="geometry" />
         </mxCell>
-        <mxCell id="rGXDuShkipq5UH_Z0f58-41" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;strokeWidth=20;" vertex="1" parent="1">
+        <mxCell id="rGXDuShkipq5UH_Z0f58-41" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;strokeWidth=20;" parent="1" vertex="1">
           <mxGeometry x="3435" y="-745" width="4850" height="1840" as="geometry" />
         </mxCell>
-        <mxCell id="rGXDuShkipq5UH_Z0f58-42" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=-180;strokeWidth=20;" vertex="1" parent="1">
-          <mxGeometry x="-520" y="-3100" width="4720" height="1400" as="geometry" />
+        <mxCell id="rGXDuShkipq5UH_Z0f58-42" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=-180;strokeWidth=20;" parent="1" vertex="1">
+          <mxGeometry x="-180" y="-3100" width="4720" height="1400" as="geometry" />
+        </mxCell>
+        <mxCell id="cYS0CaJidfTjo5thUt1W-1" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.doorDouble;aspect=fixed;strokeWidth=20;" vertex="1" parent="1">
+          <mxGeometry x="2110" y="3340" width="1920.01" height="1020" as="geometry" />
+        </mxCell>
+        <mxCell id="cYS0CaJidfTjo5thUt1W-2" value="v" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/education-1006/32/locker_door_school_metal_storage_safety_lock_box_locker_room_cabinet-128.png" vertex="1" parent="1">
+          <mxGeometry x="-310" y="-8530" width="720" height="720" as="geometry" />
+        </mxCell>
+        <mxCell id="cYS0CaJidfTjo5thUt1W-3" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/education-1006/32/locker_door_school_metal_storage_safety_lock_box_locker_room_cabinet-128.png" vertex="1" parent="1">
+          <mxGeometry x="260" y="-8530" width="720" height="720" as="geometry" />
+        </mxCell>
+        <mxCell id="cYS0CaJidfTjo5thUt1W-4" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/education-1006/32/locker_door_school_metal_storage_safety_lock_box_locker_room_cabinet-128.png" vertex="1" parent="1">
+          <mxGeometry x="830" y="-8540" width="720" height="720" as="geometry" />
+        </mxCell>
+        <mxCell id="cYS0CaJidfTjo5thUt1W-5" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/education-1006/32/locker_door_school_metal_storage_safety_lock_box_locker_room_cabinet-128.png" vertex="1" parent="1">
+          <mxGeometry x="1440" y="-8540" width="720" height="720" as="geometry" />
+        </mxCell>
+        <mxCell id="cYS0CaJidfTjo5thUt1W-6" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/education-1006/32/locker_door_school_metal_storage_safety_lock_box_locker_room_cabinet-128.png" vertex="1" parent="1">
+          <mxGeometry x="2070" y="-8530" width="720" height="720" as="geometry" />
+        </mxCell>
+        <mxCell id="cYS0CaJidfTjo5thUt1W-7" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/education-1006/32/locker_door_school_metal_storage_safety_lock_box_locker_room_cabinet-128.png" vertex="1" parent="1">
+          <mxGeometry x="2680" y="-8530" width="720" height="720" as="geometry" />
+        </mxCell>
+        <mxCell id="cYS0CaJidfTjo5thUt1W-8" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/education-1006/32/locker_door_school_metal_storage_safety_lock_box_locker_room_cabinet-128.png" vertex="1" parent="1">
+          <mxGeometry x="3300" y="-8530" width="720" height="720" as="geometry" />
+        </mxCell>
+        <mxCell id="cYS0CaJidfTjo5thUt1W-9" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/education-1006/32/locker_door_school_metal_storage_safety_lock_box_locker_room_cabinet-128.png" vertex="1" parent="1">
+          <mxGeometry x="3900" y="-8530" width="720" height="720" as="geometry" />
+        </mxCell>
+        <mxCell id="cYS0CaJidfTjo5thUt1W-10" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/education-1006/32/locker_door_school_metal_storage_safety_lock_box_locker_room_cabinet-128.png" vertex="1" parent="1">
+          <mxGeometry x="4490" y="-8540" width="720" height="720" as="geometry" />
+        </mxCell>
+        <mxCell id="cYS0CaJidfTjo5thUt1W-11" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/education-1006/32/locker_door_school_metal_storage_safety_lock_box_locker_room_cabinet-128.png" vertex="1" parent="1">
+          <mxGeometry x="5100" y="-8540" width="720" height="720" as="geometry" />
+        </mxCell>
+        <mxCell id="cYS0CaJidfTjo5thUt1W-33" value="" style="group;rotation=90;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="3040" y="-5840" width="15542.8" height="5305" as="geometry" />
+        </mxCell>
+        <mxCell id="cYS0CaJidfTjo5thUt1W-23" value="v" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/education-1006/32/locker_door_school_metal_storage_safety_lock_box_locker_room_cabinet-128.png;rotation=90;" vertex="1" parent="cYS0CaJidfTjo5thUt1W-33">
+          <mxGeometry x="2700" y="-2700" width="720" height="720" as="geometry" />
+        </mxCell>
+        <mxCell id="cYS0CaJidfTjo5thUt1W-24" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/education-1006/32/locker_door_school_metal_storage_safety_lock_box_locker_room_cabinet-128.png;rotation=90;" vertex="1" parent="cYS0CaJidfTjo5thUt1W-33">
+          <mxGeometry x="2700" y="-2130" width="720" height="720" as="geometry" />
+        </mxCell>
+        <mxCell id="cYS0CaJidfTjo5thUt1W-25" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/education-1006/32/locker_door_school_metal_storage_safety_lock_box_locker_room_cabinet-128.png;rotation=90;" vertex="1" parent="cYS0CaJidfTjo5thUt1W-33">
+          <mxGeometry x="2710" y="-1560" width="720" height="720" as="geometry" />
+        </mxCell>
+        <mxCell id="cYS0CaJidfTjo5thUt1W-26" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/education-1006/32/locker_door_school_metal_storage_safety_lock_box_locker_room_cabinet-128.png;rotation=90;" vertex="1" parent="cYS0CaJidfTjo5thUt1W-33">
+          <mxGeometry x="2710" y="-950" width="720" height="720" as="geometry" />
+        </mxCell>
+        <mxCell id="cYS0CaJidfTjo5thUt1W-27" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/education-1006/32/locker_door_school_metal_storage_safety_lock_box_locker_room_cabinet-128.png;rotation=90;" vertex="1" parent="cYS0CaJidfTjo5thUt1W-33">
+          <mxGeometry x="2700" y="-320" width="720" height="720" as="geometry" />
+        </mxCell>
+        <mxCell id="cYS0CaJidfTjo5thUt1W-28" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/education-1006/32/locker_door_school_metal_storage_safety_lock_box_locker_room_cabinet-128.png;rotation=90;" vertex="1" parent="cYS0CaJidfTjo5thUt1W-33">
+          <mxGeometry x="2700" y="290" width="720" height="720" as="geometry" />
+        </mxCell>
+        <mxCell id="cYS0CaJidfTjo5thUt1W-29" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/education-1006/32/locker_door_school_metal_storage_safety_lock_box_locker_room_cabinet-128.png;rotation=90;" vertex="1" parent="cYS0CaJidfTjo5thUt1W-33">
+          <mxGeometry x="2700" y="910" width="720" height="720" as="geometry" />
+        </mxCell>
+        <mxCell id="cYS0CaJidfTjo5thUt1W-30" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/education-1006/32/locker_door_school_metal_storage_safety_lock_box_locker_room_cabinet-128.png;rotation=90;" vertex="1" parent="cYS0CaJidfTjo5thUt1W-33">
+          <mxGeometry x="2700" y="1510" width="720" height="720" as="geometry" />
+        </mxCell>
+        <mxCell id="cYS0CaJidfTjo5thUt1W-111" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.doorDouble;aspect=fixed;strokeWidth=20;" vertex="1" parent="cYS0CaJidfTjo5thUt1W-33">
+          <mxGeometry x="2320" y="2760" width="1129.41" height="600" as="geometry" />
+        </mxCell>
+        <mxCell id="cYS0CaJidfTjo5thUt1W-118" value="" style="group;rotation=-90;" vertex="1" connectable="0" parent="cYS0CaJidfTjo5thUt1W-33">
+          <mxGeometry x="2270" y="4180" width="1120" height="835" as="geometry" />
+        </mxCell>
+        <mxCell id="cYS0CaJidfTjo5thUt1W-114" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;strokeWidth=20;rotation=-90;" vertex="1" parent="cYS0CaJidfTjo5thUt1W-118">
+          <mxGeometry width="1120" height="835" as="geometry" />
+        </mxCell>
+        <mxCell id="cYS0CaJidfTjo5thUt1W-115" value="%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%22%20style%3D%22shape%3Dprocess%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BbackgroundOutline%3D1%3BstrokeWidth%3D20%3Brotation%3D-90%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%225310%22%20y%3D%22-1660%22%20width%3D%221120%22%20height%3D%22835%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.computer;rotation=-90;" vertex="1" parent="cYS0CaJidfTjo5thUt1W-118">
+          <mxGeometry x="223" y="128" width="600" height="540" as="geometry" />
+        </mxCell>
+        <mxCell id="cYS0CaJidfTjo5thUt1W-55" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-310" y="-4330" width="6130" height="730" as="geometry" />
+        </mxCell>
+        <mxCell id="cYS0CaJidfTjo5thUt1W-45" value="v" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/education-1006/32/locker_door_school_metal_storage_safety_lock_box_locker_room_cabinet-128.png" vertex="1" parent="cYS0CaJidfTjo5thUt1W-55">
+          <mxGeometry y="10" width="720" height="720" as="geometry" />
+        </mxCell>
+        <mxCell id="cYS0CaJidfTjo5thUt1W-46" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/education-1006/32/locker_door_school_metal_storage_safety_lock_box_locker_room_cabinet-128.png" vertex="1" parent="cYS0CaJidfTjo5thUt1W-55">
+          <mxGeometry x="570" y="10" width="720" height="720" as="geometry" />
+        </mxCell>
+        <mxCell id="cYS0CaJidfTjo5thUt1W-47" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/education-1006/32/locker_door_school_metal_storage_safety_lock_box_locker_room_cabinet-128.png" vertex="1" parent="cYS0CaJidfTjo5thUt1W-55">
+          <mxGeometry x="1140" width="720" height="720" as="geometry" />
+        </mxCell>
+        <mxCell id="cYS0CaJidfTjo5thUt1W-48" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/education-1006/32/locker_door_school_metal_storage_safety_lock_box_locker_room_cabinet-128.png" vertex="1" parent="cYS0CaJidfTjo5thUt1W-55">
+          <mxGeometry x="1750" width="720" height="720" as="geometry" />
+        </mxCell>
+        <mxCell id="cYS0CaJidfTjo5thUt1W-49" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/education-1006/32/locker_door_school_metal_storage_safety_lock_box_locker_room_cabinet-128.png" vertex="1" parent="cYS0CaJidfTjo5thUt1W-55">
+          <mxGeometry x="2380" y="10" width="720" height="720" as="geometry" />
+        </mxCell>
+        <mxCell id="cYS0CaJidfTjo5thUt1W-50" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/education-1006/32/locker_door_school_metal_storage_safety_lock_box_locker_room_cabinet-128.png" vertex="1" parent="cYS0CaJidfTjo5thUt1W-55">
+          <mxGeometry x="2990" y="10" width="720" height="720" as="geometry" />
+        </mxCell>
+        <mxCell id="cYS0CaJidfTjo5thUt1W-51" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/education-1006/32/locker_door_school_metal_storage_safety_lock_box_locker_room_cabinet-128.png" vertex="1" parent="cYS0CaJidfTjo5thUt1W-55">
+          <mxGeometry x="3610" y="10" width="720" height="720" as="geometry" />
+        </mxCell>
+        <mxCell id="cYS0CaJidfTjo5thUt1W-72" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=20;" edge="1" parent="cYS0CaJidfTjo5thUt1W-55">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="4280" y="580" as="sourcePoint" />
+            <mxPoint x="6120" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cYS0CaJidfTjo5thUt1W-112" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.doorDouble;aspect=fixed;strokeWidth=20;rotation=-180;" vertex="1" parent="cYS0CaJidfTjo5thUt1W-55">
+          <mxGeometry x="4630" y="-30" width="1129.41" height="600" as="geometry" />
+        </mxCell>
+        <mxCell id="cYS0CaJidfTjo5thUt1W-56" value="" style="group;rotation=-90;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-2870" y="-7000" width="5960" height="730" as="geometry" />
+        </mxCell>
+        <mxCell id="cYS0CaJidfTjo5thUt1W-58" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/education-1006/32/locker_door_school_metal_storage_safety_lock_box_locker_room_cabinet-128.png;rotation=-90;" vertex="1" parent="cYS0CaJidfTjo5thUt1W-56">
+          <mxGeometry x="2552.2022838499183" y="2055" width="700.0326264274063" height="700.0326264274063" as="geometry" />
+        </mxCell>
+        <mxCell id="cYS0CaJidfTjo5thUt1W-59" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/education-1006/32/locker_door_school_metal_storage_safety_lock_box_locker_room_cabinet-128.png;rotation=-90;" vertex="1" parent="cYS0CaJidfTjo5thUt1W-56">
+          <mxGeometry x="2542.4796084828713" y="1485" width="700.0326264274063" height="700.0326264274063" as="geometry" />
+        </mxCell>
+        <mxCell id="cYS0CaJidfTjo5thUt1W-60" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/education-1006/32/locker_door_school_metal_storage_safety_lock_box_locker_room_cabinet-128.png;rotation=-90;" vertex="1" parent="cYS0CaJidfTjo5thUt1W-56">
+          <mxGeometry x="2542.4796084828713" y="875" width="700.0326264274063" height="700.0326264274063" as="geometry" />
+        </mxCell>
+        <mxCell id="cYS0CaJidfTjo5thUt1W-61" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/education-1006/32/locker_door_school_metal_storage_safety_lock_box_locker_room_cabinet-128.png;rotation=-90;" vertex="1" parent="cYS0CaJidfTjo5thUt1W-56">
+          <mxGeometry x="2552.2022838499183" y="245" width="700.0326264274063" height="700.0326264274063" as="geometry" />
+        </mxCell>
+        <mxCell id="cYS0CaJidfTjo5thUt1W-62" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/education-1006/32/locker_door_school_metal_storage_safety_lock_box_locker_room_cabinet-128.png;rotation=-90;" vertex="1" parent="cYS0CaJidfTjo5thUt1W-56">
+          <mxGeometry x="2552.2022838499183" y="-365" width="700.0326264274063" height="700.0326264274063" as="geometry" />
+        </mxCell>
+        <mxCell id="cYS0CaJidfTjo5thUt1W-63" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/education-1006/32/locker_door_school_metal_storage_safety_lock_box_locker_room_cabinet-128.png;rotation=-90;" vertex="1" parent="cYS0CaJidfTjo5thUt1W-56">
+          <mxGeometry x="2552.2022838499183" y="-985" width="700.0326264274063" height="700.0326264274063" as="geometry" />
+        </mxCell>
+        <mxCell id="cYS0CaJidfTjo5thUt1W-71" value="" style="group;strokeWidth=20;strokeColor=none;fillColor=none;rounded=0;glass=0;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="2480" y="-6880" width="1360" height="1360" as="geometry" />
+        </mxCell>
+        <mxCell id="cYS0CaJidfTjo5thUt1W-65" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.office_chair;shadow=0;" vertex="1" parent="cYS0CaJidfTjo5thUt1W-71">
+          <mxGeometry x="485.71428571428567" width="388.57142857142856" height="417.71428571428567" as="geometry" />
+        </mxCell>
+        <mxCell id="cYS0CaJidfTjo5thUt1W-66" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.office_chair;shadow=0;direction=west;" vertex="1" parent="cYS0CaJidfTjo5thUt1W-71">
+          <mxGeometry x="485.71428571428567" y="942.2857142857142" width="388.57142857142856" height="417.71428571428567" as="geometry" />
+        </mxCell>
+        <mxCell id="cYS0CaJidfTjo5thUt1W-67" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.office_chair;shadow=0;direction=north;" vertex="1" parent="cYS0CaJidfTjo5thUt1W-71">
+          <mxGeometry y="485.71428571428567" width="417.71428571428567" height="388.57142857142856" as="geometry" />
+        </mxCell>
+        <mxCell id="cYS0CaJidfTjo5thUt1W-68" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.office_chair;shadow=0;direction=south" vertex="1" parent="cYS0CaJidfTjo5thUt1W-71">
+          <mxGeometry x="942.2857142857142" y="485.71428571428567" width="417.71428571428567" height="388.57142857142856" as="geometry" />
+        </mxCell>
+        <mxCell id="cYS0CaJidfTjo5thUt1W-69" value="" style="shape=rect;shadow=0;html=1;" vertex="1" parent="cYS0CaJidfTjo5thUt1W-71">
+          <mxGeometry x="194.28571428571428" y="194.28571428571428" width="971.4285714285713" height="971.4285714285713" as="geometry" />
+        </mxCell>
+        <mxCell id="cYS0CaJidfTjo5thUt1W-73" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.lock" vertex="1" parent="1">
+          <mxGeometry x="4780" y="-3730" width="202.8" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="cYS0CaJidfTjo5thUt1W-74" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/education-1006/32/locker_door_school_metal_storage_safety_lock_box_locker_room_cabinet-128.png" vertex="1" parent="1">
+          <mxGeometry x="14980" y="-8990" width="720" height="720" as="geometry" />
+        </mxCell>
+        <mxCell id="cYS0CaJidfTjo5thUt1W-75" value="&lt;span style=&quot;font-size: 500px;&quot;&gt;Банкоские ячейки&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=999;" vertex="1" parent="1">
+          <mxGeometry x="15010" y="-9930" width="6360" height="2090" as="geometry" />
+        </mxCell>
+        <mxCell id="cYS0CaJidfTjo5thUt1W-76" value="" style="shape=mxgraph.signs.tech.video_camera;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
+          <mxGeometry x="4360" y="3330" width="539" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="cYS0CaJidfTjo5thUt1W-77" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/essential-pack-2/48/29-Banking-Atm-128.png" vertex="1" parent="1">
+          <mxGeometry x="15010" y="-8090" width="720" height="720" as="geometry" />
+        </mxCell>
+        <mxCell id="cYS0CaJidfTjo5thUt1W-78" value="&lt;span style=&quot;font-size: 500px;&quot;&gt;Банкомат&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=999;" vertex="1" parent="1">
+          <mxGeometry x="15020" y="-9010" width="6360" height="2090" as="geometry" />
+        </mxCell>
+        <mxCell id="cYS0CaJidfTjo5thUt1W-79" value="" style="shape=mxgraph.signs.tech.video_camera;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
+          <mxGeometry x="15080" y="-7080" width="759.5" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="cYS0CaJidfTjo5thUt1W-80" value="&lt;span style=&quot;font-size: 500px;&quot;&gt;Камера наблюдения&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=999;" vertex="1" parent="1">
+          <mxGeometry x="15020" y="-8210" width="7500" height="2090" as="geometry" />
+        </mxCell>
+        <mxCell id="cYS0CaJidfTjo5thUt1W-84" value="" style="shape=mxgraph.signs.tech.video_camera;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-970" y="3000" width="539" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="cYS0CaJidfTjo5thUt1W-85" value="" style="shape=mxgraph.signs.tech.video_camera;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-980" y="-3010" width="539" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="cYS0CaJidfTjo5thUt1W-87" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;strokeWidth=20;" vertex="1" parent="1">
+          <mxGeometry x="-7890" y="-1920" width="1120" height="835" as="geometry" />
+        </mxCell>
+        <mxCell id="cYS0CaJidfTjo5thUt1W-88" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;strokeWidth=20;" vertex="1" parent="1">
+          <mxGeometry x="-6480" y="-1920" width="1120" height="835" as="geometry" />
+        </mxCell>
+        <mxCell id="cYS0CaJidfTjo5thUt1W-89" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;strokeWidth=20;" vertex="1" parent="1">
+          <mxGeometry x="-5080" y="-1920" width="1120" height="835" as="geometry" />
+        </mxCell>
+        <mxCell id="cYS0CaJidfTjo5thUt1W-90" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;strokeWidth=20;" vertex="1" parent="1">
+          <mxGeometry x="-3670" y="-1920" width="1120" height="835" as="geometry" />
+        </mxCell>
+        <mxCell id="cYS0CaJidfTjo5thUt1W-92" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#FFCE9F;shape=mxgraph.azure.computer" vertex="1" parent="1">
+          <mxGeometry x="-7610" y="-1810" width="600" height="540" as="geometry" />
+        </mxCell>
+        <mxCell id="cYS0CaJidfTjo5thUt1W-93" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#8D0726;shape=mxgraph.azure.computer" vertex="1" parent="1">
+          <mxGeometry x="-6230" y="-1790" width="600" height="540" as="geometry" />
+        </mxCell>
+        <mxCell id="cYS0CaJidfTjo5thUt1W-94" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#D9D211;shape=mxgraph.azure.computer" vertex="1" parent="1">
+          <mxGeometry x="-4820" y="-1800" width="600" height="540" as="geometry" />
+        </mxCell>
+        <mxCell id="cYS0CaJidfTjo5thUt1W-95" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#A680B8;shape=mxgraph.azure.computer" vertex="1" parent="1">
+          <mxGeometry x="-3420" y="-1791" width="590" height="531" as="geometry" />
+        </mxCell>
+        <mxCell id="cYS0CaJidfTjo5thUt1W-97" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=20;entryX=0.112;entryY=1.007;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="rGXDuShkipq5UH_Z0f58-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-8570" y="130" as="sourcePoint" />
+            <mxPoint x="-6400" y="-2390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cYS0CaJidfTjo5thUt1W-98" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.traditional_server;" vertex="1" parent="1">
+          <mxGeometry x="-9250" y="-2720" width="190" height="329.33" as="geometry" />
+        </mxCell>
+        <mxCell id="cYS0CaJidfTjo5thUt1W-99" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.traditional_server;" vertex="1" parent="1">
+          <mxGeometry x="-8970" y="-2720" width="190" height="329.33" as="geometry" />
+        </mxCell>
+        <mxCell id="cYS0CaJidfTjo5thUt1W-100" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.traditional_server;" vertex="1" parent="1">
+          <mxGeometry x="-9250" y="-2310" width="190" height="329.33" as="geometry" />
+        </mxCell>
+        <mxCell id="cYS0CaJidfTjo5thUt1W-101" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.traditional_server;" vertex="1" parent="1">
+          <mxGeometry x="-8970" y="-2300" width="190" height="329.33" as="geometry" />
+        </mxCell>
+        <mxCell id="cYS0CaJidfTjo5thUt1W-102" value="" style="shape=mxgraph.signs.tech.video_camera;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-8420" y="-3030" width="539" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="cYS0CaJidfTjo5thUt1W-103" value="" style="shape=mxgraph.signs.tech.video_camera;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-9280" y="-220" width="539" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="cYS0CaJidfTjo5thUt1W-104" value="" style="image;html=1;image=img/lib/clip_art/networking/Print_Server_Wireless_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="-9170" y="-1910" width="260" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="cYS0CaJidfTjo5thUt1W-105" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/database_server.svg;" vertex="1" parent="1">
+          <mxGeometry x="-9170" y="-1570" width="262.4" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="cYS0CaJidfTjo5thUt1W-109" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=20;" vertex="1" parent="1">
+          <mxGeometry x="-6370" y="190" width="5320" height="2660" as="geometry" />
+        </mxCell>
+        <mxCell id="cYS0CaJidfTjo5thUt1W-107" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;strokeWidth=20;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="-6610" y="1070" width="1910" height="835" as="geometry" />
+        </mxCell>
+        <mxCell id="cYS0CaJidfTjo5thUt1W-110" value="Наблюдательная комната" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=600;" vertex="1" parent="1">
+          <mxGeometry x="-5730" y="2960" width="4190" height="1330" as="geometry" />
+        </mxCell>
+        <mxCell id="cYS0CaJidfTjo5thUt1W-113" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.lock" vertex="1" parent="1">
+          <mxGeometry x="5800" y="-2730" width="202.8" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="cYS0CaJidfTjo5thUt1W-121" value="" style="group;rotation=-90;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="5310" y="-350" width="1120" height="835" as="geometry" />
+        </mxCell>
+        <mxCell id="cYS0CaJidfTjo5thUt1W-119" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;strokeWidth=20;rotation=-90;" vertex="1" parent="cYS0CaJidfTjo5thUt1W-121">
+          <mxGeometry width="1120" height="835" as="geometry" />
+        </mxCell>
+        <mxCell id="cYS0CaJidfTjo5thUt1W-120" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.computer;rotation=-90;" vertex="1" parent="cYS0CaJidfTjo5thUt1W-121">
+          <mxGeometry x="223" y="128" width="600" height="540" as="geometry" />
+        </mxCell>
+        <mxCell id="cYS0CaJidfTjo5thUt1W-126" value="" style="group;rotation=-90;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="5330" y="1040" width="1120" height="835" as="geometry" />
+        </mxCell>
+        <mxCell id="cYS0CaJidfTjo5thUt1W-122" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;strokeWidth=20;rotation=-90;" vertex="1" parent="cYS0CaJidfTjo5thUt1W-126">
+          <mxGeometry width="1120" height="835" as="geometry" />
+        </mxCell>
+        <mxCell id="cYS0CaJidfTjo5thUt1W-123" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.computer;rotation=-90;" vertex="1" parent="cYS0CaJidfTjo5thUt1W-126">
+          <mxGeometry x="223" y="128" width="600" height="540" as="geometry" />
+        </mxCell>
+        <mxCell id="cYS0CaJidfTjo5thUt1W-127" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.doorDouble;aspect=fixed;strokeWidth=20;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="-1290" y="-1970.67" width="1129.41" height="600" as="geometry" />
+        </mxCell>
+        <mxCell id="cYS0CaJidfTjo5thUt1W-128" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#6F0000;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#a20025;shape=mxgraph.mscae.enterprise.lock;rotation=-90;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="-500" y="-1780" width="202.8" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="cYS0CaJidfTjo5thUt1W-131" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.doorDouble;aspect=fixed;strokeWidth=20;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="-8830" y="-950" width="1129.41" height="600" as="geometry" />
+        </mxCell>
+        <mxCell id="cYS0CaJidfTjo5thUt1W-132" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#6F0000;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#a20025;shape=mxgraph.mscae.enterprise.lock;rotation=-90;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="-8040" y="-759.3299999999999" width="202.8" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="cYS0CaJidfTjo5thUt1W-133" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.doorDouble;aspect=fixed;strokeWidth=20;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="-8820" y="-940" width="1129.41" height="600" as="geometry" />
+        </mxCell>
+        <mxCell id="cYS0CaJidfTjo5thUt1W-134" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#6F0000;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#a20025;shape=mxgraph.mscae.enterprise.lock;rotation=-90;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="-8030" y="-749.3299999999999" width="202.8" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="cYS0CaJidfTjo5thUt1W-137" value="" style="group;rotation=-90;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-5890.005" y="-744.7049999999999" width="756.6949999999997" height="1129.4099999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="cYS0CaJidfTjo5thUt1W-135" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.doorDouble;aspect=fixed;strokeWidth=20;rotation=-180;" vertex="1" parent="cYS0CaJidfTjo5thUt1W-137">
+          <mxGeometry x="-186" y="343" width="1129.41" height="600" as="geometry" />
+        </mxCell>
+        <mxCell id="cYS0CaJidfTjo5thUt1W-136" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#005700;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#008a00;shape=mxgraph.mscae.enterprise.lock;rotation=-180;fontColor=#ffffff;" vertex="1" parent="cYS0CaJidfTjo5thUt1W-137">
+          <mxGeometry x="298" y="186" width="202.8" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="cYS0CaJidfTjo5thUt1W-138" value="Кассовая зона" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=200;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="-2060" width="1760" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="cYS0CaJidfTjo5thUt1W-139" value="Зона обслуживания клиентов" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=200;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="3660" y="-10" width="3020" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="cYS0CaJidfTjo5thUt1W-140" value="" style="shape=mxgraph.signs.tech.video_camera;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
+          <mxGeometry x="380" y="-4640" width="539" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="cYS0CaJidfTjo5thUt1W-157" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;strokeWidth=20;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="230" y="-2950" width="1120" height="835" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
